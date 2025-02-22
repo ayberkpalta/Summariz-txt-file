@@ -21,8 +21,4 @@ Key Libraries:
 Langchain: Used for chaining together components like prompt templates, language models, and summarization chains.
 OpenAI: Provides access to the GPT-based language model.
 Streamlit: Used to create the web interface for file uploading and displaying the summary.
-Flow:
-User uploads a .txt file.
-The file is read and split into smaller chunks.
-The text is passed to OpenAI's model for summarization.
-The generated summary is displayed to the user.
+
