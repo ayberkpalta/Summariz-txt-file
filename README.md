@@ -1,2 +1,2 @@
-# Summariz-txt-file
+#         Summariz-txt-file
 This application summarizes txt files.
